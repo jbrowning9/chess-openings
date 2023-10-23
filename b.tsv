@@ -445,7 +445,7 @@ B25	Sicilian Defense: Closed, Botvinnik Defense, Edge Variation	1. e4 c5 2. Nc3 
 B25	Sicilian Defense: Closed, Botvinnik Defense, with Nge2	1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 e5
 B25	Sicilian Defense: Closed, Botvinnik Defense, with f4	1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5
 B26	Sicilian Defense: Closed	1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3
-B26 Sicilian Defense: Tiviakov Grand Prix  1. e4 c5 2. Nc3 Nc6 3. Bb5
+B26	Sicilian Defense: Tiviakov Grand Prix	1. e4 c5 2. Nc3 Nc6 3. Bb5
 B27	Modern Defense: Pterodactyl Variation 1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. Nc3 Qa5
 B27	Pterodactyl Defense: Sicilian, Anhanguera	1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. Nc3 Qa5 5. Be3
 B27	Pterodactyl Defense: Sicilian, Benoni Gambit	1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. Nc3 Qa5 5. d5
